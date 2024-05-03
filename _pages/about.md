@@ -12,13 +12,13 @@ I am an undergraduate student majoring in Artificial Intelligence at Yuanpei Col
 
 My current research interest lies in Computer Vision, especially Multimodal Learning and Time-related Feature Engineering, and I am also willing to explore additional domains within the field of artificial intelligence in the future.
 
-
-News
-======
-
 Publications
 ======
-
+- **(Under Review) Text-controlled Motion Mamba: Text-Instructed Temporal Grounding of Human Motion**
+  <br/>
+  _Xinghan Wang, Zixi Kang, Yadong Mu_
+  <br/>
+  
 Experiences
 ======
 - [Tong Class](https://tongclass.ac.cn/about/), Peking University(PKU)
@@ -29,6 +29,7 @@ Experiences
 
 Selected Awards
 ======
+- 2024: MCM/ICM Meritorious Winner (<10%)
 - 2023: Peking University Merit Student (<2%)
 - 2023: Peking University Fenjiu Group public welfare scholarship (¥5000 RMB)
 - 2022: Peking University Freshman Scholarship (¥10000 RMB)
