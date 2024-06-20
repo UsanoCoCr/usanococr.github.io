@@ -29,7 +29,8 @@ Experiences
 
 Selected Awards
 ======
-- 2024: MCM/ICM Meritorious Winner (<10%)
+- 2024: Ching-Ling Soong Future Scholarship (¥5000 RMB)
+- 2024: MCM/ICM Meritorious Winner (<6%)
 - 2023: Peking University Merit Student (<2%)
 - 2023: Peking University Fenjiu Group public welfare scholarship (¥5000 RMB)
 - 2022: Peking University Freshman Scholarship (¥10000 RMB)
