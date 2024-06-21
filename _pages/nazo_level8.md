@@ -1,9 +1,9 @@
 ---
-permalink: /Birthday/
+permalink: /birthday/
 title: "第8关：你和我是一类人吗？"
 author_profile: false
 redirect_from: 
-  - /birthday/
+  - /Birthday/
 ---
 
 - 我还是更喜欢32位的百度
