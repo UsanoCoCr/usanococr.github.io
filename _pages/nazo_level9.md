@@ -2,8 +2,6 @@
 permalink: /110.242.68.66/
 title: "第9关：todo"
 author_profile: false
-redirect_from: 
-  - /birthday/
 ---
 
 - todo
