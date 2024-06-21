@@ -18,7 +18,13 @@
 {% assign canonical_url = page.url | replace: "index.html", "" | prepend: site.url %}
 {% endif %}
 
-<title>Zixi Kang's Homepage</title>
+<title>
+  {% if page.permalink == "/答案/" %}
+  答案：lookatme
+  {% else %}
+  Zixi Kang's Homepage
+  {% endif %}
+</title>
 
 {% assign seo_description = page.description | default: page.excerpt | default: site.description %}
 {% if seo_description %}
