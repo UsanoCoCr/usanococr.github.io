@@ -11,5 +11,5 @@ author_profile: false
   
 <details>
   <summary>提示</summary>
-  <p>这一关的提示是：从另一种角度看看上一关的提示</p>
+  <p>这一关的提示是：如果你实在看不出来，你可以百度一下</p>
 </details>
