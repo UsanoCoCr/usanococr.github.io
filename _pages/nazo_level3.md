@@ -9,4 +9,5 @@ author_profile: false
   <p>这一关的提示是：再仔细找一找</p>
 </details>
 
-<p style="color: white;" /*这一关的彩蛋是：o*/>答案：whiteisgreat</p>
+<p style="color: white;">答案：whiteisgreat</p>
+<!-- <p style="color: white;">这一关的彩蛋是：o</p> -->
