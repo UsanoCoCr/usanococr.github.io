@@ -1,7 +1,7 @@
 ---
 permalink: /nazo-1/
-title: "Markdown"
+title: "第1关：我们先从简单的开始"
+author_profile: false
 ---
 
-# Level 1: 欢迎来到Nazo Game！
-## Please enter youranswer
+## 请输入答案
