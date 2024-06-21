@@ -19,26 +19,32 @@ author_profile: false
             height: 100vh;
             margin: 0;
             background-color: #000;
+            overflow: hidden;
+            /* 防止页面滚动 */
         }
 
         canvas {
             border: 1px solid #fff;
+            width: 800px;
+            /* 增大游戏屏幕 */
+            height: 400px;
+            /* 增大游戏屏幕 */
         }
     </style>
 </head>
 
 <body>
-    <canvas id="gameCanvas" width="600" height="300"></canvas>
+    <canvas id="gameCanvas" width="800" height="400"></canvas>
     <script>
         const canvas = document.getElementById('gameCanvas');
         const context = canvas.getContext('2d');
 
-        const paddleWidth = 10, paddleHeight = 70, ballSize = 10;
-        let playerY = canvas.height / 2 - paddleHeight / 2, aiY = playerY;
+        const paddleWidth = 10, paddleHeight = 70, aiPaddleHeight = 100, ballSize = 10;
+        let playerY = canvas.height / 2 - paddleHeight / 2, aiY = canvas.height / 2 - aiPaddleHeight / 2;
         let ballX = canvas.width / 2, ballY = canvas.height / 2;
-        let ballSpeedX = 8, ballSpeedY = 8;
+        let ballSpeedX = 7, ballSpeedY = 7;
         let playerScore = 0, aiScore = 0;
-        const winningScore = 3;
+        const winningScore = 5;
         let speedIncrease = 0.05;
 
         function drawRect(x, y, width, height, color) {
@@ -88,7 +94,7 @@ author_profile: false
             }
 
             if (ballX > canvas.width) {
-                if (ballY > aiY && ballY < aiY + paddleHeight) {
+                if (ballY > aiY && ballY < aiY + aiPaddleHeight) {
                     ballSpeedX = -ballSpeedX;
                     ballSpeedX += speedIncrease * ballSpeedX;
                     ballSpeedY += speedIncrease * ballSpeedY;
@@ -98,7 +104,7 @@ author_profile: false
                 }
             }
 
-            if (aiY + paddleHeight / 2 < ballY) {
+            if (aiY + aiPaddleHeight / 2 < ballY) {
                 aiY += 6;
             } else {
                 aiY -= 6;
@@ -108,7 +114,7 @@ author_profile: false
         function drawEverything() {
             drawRect(0, 0, canvas.width, canvas.height, '#000');
             drawRect(0, playerY, paddleWidth, paddleHeight, '#fff');
-            drawRect(canvas.width - paddleWidth, aiY, paddleWidth, paddleHeight, '#fff');
+            drawRect(canvas.width - paddleWidth, aiY, paddleWidth, aiPaddleHeight, '#fff');
             drawBall(ballX, ballY, ballSize, '#fff');
 
             context.fillStyle = '#fff';
@@ -135,6 +141,16 @@ author_profile: false
                     break;
             }
         });
+
+        // 防止页面上下滚动
+        window.addEventListener('keydown', (event) => {
+            if (['ArrowUp', 'ArrowDown'].includes(event.key)) {
+                event.preventDefault();
+            }
+        });
+        window.addEventListener('wheel', (event) => {
+            event.preventDefault();
+        }, { passive: false });
     </script>
 </body>
 
