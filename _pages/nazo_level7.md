@@ -1,13 +1,14 @@
 ---
 permalink: /YYwl答nn/
-title: "第7关：神秘的数字"
+title: "第7关：彩色的数字"
 author_profile: false
 ---
 
-556517
-556521
-5553176
-443121
+<p style="color: blue;">55<b>65</b>17</p>
+<p style="color: red;">55<b>65</b>21</p>
+<p style="color: green;">55<b>53</b>176</p>
+<p style="color: yellow;">44<b>31</b>21</p>
+
   
 <details>
   <summary>提示</summary>

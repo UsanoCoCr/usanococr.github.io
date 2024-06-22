@@ -1,6 +1,6 @@
 ---
 permalink: /YourName/
-title: "第5关：开始吧，真正的Nazo"
+title: "第5关：最初的Nazo"
 author_profile: false
 ---
 

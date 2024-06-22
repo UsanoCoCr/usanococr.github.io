@@ -1,7 +1,13 @@
 ---
-permalink: /110.242.68.66/
-title: "第9关：他们的共同特点"
+permalink: /TCAcycle/
+title: "第9关：Personality，我说的是字母的"
 author_profile: false
+redirect_from: 
+  - /TCA/
+  - /tricarboxylicacidcycle/
+  - TriCarboxylicAcidCycle/
+  - /citricacidcycle/
+  - /CitricAcidCycle/
 ---
 
 - A、B、D、O、P、Q、?

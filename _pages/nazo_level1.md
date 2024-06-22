@@ -1,6 +1,6 @@
 ---
 permalink: /nazo-1/
-title: "第1关：我们先从简单的开始"
+title: "第1关：Quick Start"
 author_profile: false
 ---
 
