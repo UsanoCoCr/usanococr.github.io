@@ -1,6 +1,6 @@
 ---
 permalink: /nazo-0/
-title: "第0关：欢迎来到我的Nazo Game！"
+title: "第0关：欢迎来到Nazo Game: 无限循环"
 author_profile: false
 ---
 
