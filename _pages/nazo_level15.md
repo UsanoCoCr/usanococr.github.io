@@ -8,7 +8,7 @@ author_profile: false
   
 <details>
   <summary>提示</summary>
-  <p>我没事，孩子，回溯到我们的第一次相......</p>
+  <p>我没事，孩子，想想你的名字......</p>
   <p style="color: red;">你给我闭嘴！！呆呆！！</p>
   <!-- <p style="color: white;">你就要打败他了！加油！破解无限循环最好的办法是什么，好好想想！</p> -->
 </details>
