@@ -2,6 +2,8 @@
 permalink: /Chris/
 title: "第7关：彩色的数字"
 author_profile: false
+redirect_from: 
+  - /克里斯/
 ---
 
 <p style="color: blue;">55<b>65</b>17</p> 
