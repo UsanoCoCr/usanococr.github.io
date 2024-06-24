@@ -1,5 +1,5 @@
 ---
-permalink: /nazo-1/
+permalink: /nazo-2/
 title: "第1关：Quick Start"
 author_profile: false
 ---

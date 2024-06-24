@@ -3,6 +3,7 @@ permalink: /nazo-0/
 title: "第0关：欢迎来到Nazo Game: 无限循环"
 author_profile: false
 ---
+- 你好！我的中文名是呆呆！欢迎来到《Nazo Game: 无限循环》！
 
 - Nazo Game是一个网页解谜游戏（原网页见[Nazo Game](https://nazo.one-story.cn/)），每一关都会出现一个问题，我们只要回答对问题，便能进入下一关。每一关的问题看起来觉得很难，但当我们知道答案后，却又会恍然大悟，直呼原来这么简单！
 

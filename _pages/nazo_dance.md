@@ -1,6 +1,6 @@
 ---
-permalink: /dance/
-title: "第12.4关：跳宅舞的小人"
+permalink: /dancer/
+title: "第13.4关：跳舞的小人"
 author_profile: false
 ---
 
