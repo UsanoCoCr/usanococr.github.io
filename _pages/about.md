@@ -10,7 +10,7 @@ redirect_from:
 I am an undergraduate student majoring in Artificial Intelligence at Yuanpei College, [Peking University](https://english.pku.edu.cn/). 
 
 
-My current research interest lies in Computer Vision, especially Multimodal Learning and Time-related Feature Engineering, and I am also willing to explore additional domains within the field of artificial intelligence in the future.
+My current research interest lies in Computer Vision, especially Multimodal Learning and Motion Learning, and I am also willing to explore additional domains within the field of artificial intelligence in the future.
 
 Publications
 ======
@@ -26,6 +26,12 @@ Experiences
   Undergraduate Student 
   <br/>
   September. 2022.9 – Present
+
+- [PKUMI Lab](http://www.muyadong.com/index.html), Peking University(PKU)
+  <br/>
+  Intern 
+  <br/>
+  December. 2023.12 – Present
 
 Selected Awards
 ======
