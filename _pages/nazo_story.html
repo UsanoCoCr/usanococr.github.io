@@ -1,0 +1,81 @@
+---
+title: "剧情"
+permalink: /nazo-1/
+author_profile: false
+---
+
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>剧情</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: Arial, sans-serif;
+            overflow: hidden;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            text-align: center;
+        }
+
+        .hidden {
+            opacity: 0;
+            transition: opacity 3s ease-in-out;
+        }
+
+        .visible {
+            opacity: 1;
+        }
+
+        .highlight {
+            color: red;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="story">
+        <p class="hidden">20后这一代，已经彻底沦为了“奶头乐”“娱乐至死”的奴隶。</p>
+        <p class="hidden">2034年，赛里斯最高学府北京大学，一个伟大的发明在计算中心诞生了。</p>
+        <p class="hidden">“我们叫他‘斯芬克斯’，他脑中的知识如瀚海一般，他的题目无人可以破解。”发明“斯芬克斯”的呆呆博士如是说。</p>
+        <p class="hidden">
+            20后们饥渴地争夺着“斯芬克斯”的使用权，解谜游戏成为了一种无穷尽的毒品，正因为“斯芬克斯”的出现，所有的有穷尽的游戏都成为了低档次的消耗品，“斯芬克斯”成为了娱乐的支配者，接受着上亿颓废青年们的膜拜。</p>
+    </div>
+    <div id="next-part" style="display: none;">
+        <p class="hidden">你本来也沉溺在破解谜题的快乐中，直到有一天……</p>
+        <p class="hidden">学术最高殿堂北京大学的服务器突然崩溃，呆呆博士在某天夜晚突然失踪，“斯芬克斯”不再出谜题了，上亿嗷嗷待哺的瘾君子先是愤怒、又到惊讶、最后陷入了深深的绝望之中。</p>
+        <p class="hidden">因为他们发现，他们无法关闭电脑，视线无法从电脑前离开，他们被“斯芬克斯”困在了<span class="highlight">无穷无尽的循环</span>之中……</p>
+    </div>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const storyParagraphs = document.querySelectorAll('#story p');
+            const nextPartParagraphs = document.querySelectorAll('#next-part p');
+
+            function showParagraphs(paragraphs, index, callback) {
+                if (index < paragraphs.length) {
+                    paragraphs[index].classList.add('visible');
+                    setTimeout(() => showParagraphs(paragraphs, index + 1, callback), 5000);
+                } else if (callback) {
+                    callback();
+                }
+            }
+
+            showParagraphs(storyParagraphs, 0, () => {
+                document.getElementById('story').style.display = 'none';
+                document.getElementById('next-part').style.display = 'block';
+                showParagraphs(nextPartParagraphs, 0);
+            });
+        });
+    </script>
+</body>
+
+</html>

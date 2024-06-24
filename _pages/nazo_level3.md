@@ -10,4 +10,3 @@ author_profile: false
 </details>
 
 <p style="color: white;">答案：whiteisgreat</p>
-<!-- <p style="color: white;">这一关的彩蛋是：o</p> -->
