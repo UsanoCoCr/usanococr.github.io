@@ -14,11 +14,20 @@ My current research interest lies in Computer Vision, especially Multimodal Lear
 
 Publications
 ======
-- **(Under Review) Text-controlled Motion Mamba: Text-Instructed Temporal Grounding of Human Motion**
+- **BioMoDiffuse: Physics-Guided Biomechanical Diffusion for Controllable and Authentic Human Motion Synthesis**
+  <br/>
+  _Zixi Kang, Xinghan Wang, Yadong Mu_
+  <br/>
+
+- **Text-controlled Motion Mamba: Text-Instructed Temporal Grounding of Human Motion**
   <br/>
   _Xinghan Wang, Zixi Kang, Yadong Mu_
   <br/>
   
+Services
+======
+- Reviewer for ICCV 2025
+
 Experiences
 ======
 - [Tong Class](https://tongclass.ac.cn/about/), Peking University(PKU)
@@ -35,6 +44,7 @@ Experiences
 
 Selected Awards
 ======
+- 2024: Yicong Huang Scholarship (¥8000 RMB)
 - 2024: Ching-Ling Soong Future Scholarship (¥5000 RMB)
 - 2024: MCM/ICM Meritorious Winner (<6%)
 - 2023: Peking University Merit Student (<2%)
