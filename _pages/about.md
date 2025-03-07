@@ -50,3 +50,9 @@ Selected Awards
 - 2023: Peking University Merit Student (<2%)
 - 2023: Peking University Fenjiu Group public welfare scholarship (¥5000 RMB)
 - 2022: Peking University Freshman Scholarship (¥10000 RMB)
+
+Personal Interests
+======
+- I was a member of the Yuanpei College men's soccer team and played at the centre defender mid-fielder or wing back position. I am also a board member of the Beijing High School Football Championship (BGBC). My favorite club is Leicester City and I will always be a fan of the Chinese men's soccer team.
+- I'm a fan of F1, and I'm a fan of Zhou Guanyu.
+- I also enjoy traveling, playing ping pong in my free time.
