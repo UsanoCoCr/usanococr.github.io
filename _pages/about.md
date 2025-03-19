@@ -68,4 +68,4 @@ Personal Interests
   - North America:
     - United States: New York, Washington D.C., Chicago, Boston, Hawaii, Philadelphia
 
-<a href='https://clustrmaps.com/site/1c03m'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=600&t=n&d=SyBiJ1Ugb-rc6fbLUU-lVXiLkH4XSENzuYg767o06-o&co=2d78ad&ct=ffffff'/></a>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=3TWJXhDA5vbrmRJyNYU26EBBSJcfUstPGQkRHit4PMk"></script>
