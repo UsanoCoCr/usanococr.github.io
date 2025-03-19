@@ -53,7 +53,6 @@ Selected Awards
 Personal Interests
 ======
 - I was a member of the Yuanpei College men's soccer team and played at the centre defender mid-fielder or wing back position. I am also a board member of the Beijing High School Football Championship (BGBC). My favorite club is Leicester City and I will always be a fan of the Chinese men's soccer team.
-- I also enjoy F1, traveling, and table tennis in my free time.
 - In my spare time, I enjoy doing sports, mainly soccer, F1, and table tennis, as well as listening to music, singing, hiking, and traveling/exploring new places. I have visited 10 countries so far:
   - Asia: 
     - China(21/34 Provinces)
@@ -68,3 +67,5 @@ Personal Interests
     - Russia: Moscow, Saint Petersburg
   - North America:
     - United States: New York, Washington D.C., Chicago, Boston, Hawaii, Philadelphia
+
+<a href='https://clustrmaps.com/site/1c03m'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=600&t=n&d=SyBiJ1Ugb-rc6fbLUU-lVXiLkH4XSENzuYg767o06-o&co=2d78ad&ct=ffffff'/></a>
