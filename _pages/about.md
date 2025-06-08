@@ -17,6 +17,8 @@ Publications
 - **(Under Review) OpenDance: Multimodal Controllable 3D Dance Generation Using Large-scale Internet Data**
   <br/>
   _Jinlu Zhang$^{*}$, **Zixi Kang$^{*}$**, Yizhou Wang_
+  <br/>
+    (*Equal Contribution)
 
 - **(Under Review) BioMoDiffuse: Physics-Guided Biomechanical Diffusion for Controllable and Authentic Human Motion Synthesis**
   <br/>
