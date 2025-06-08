@@ -14,13 +14,17 @@ My current research interest lies in Computer Vision and Computer Graphics, espe
 
 Publications
 ======
-- **BioMoDiffuse: Physics-Guided Biomechanical Diffusion for Controllable and Authentic Human Motion Synthesis**
+- **(Under Review) OpenDance: Multimodal Controllable 3D Dance Generation Using Large-scale Internet Data**
+  <br/>
+  _Jinlu Zhang^{*}, **Zixi Kang^{*}**, Yizhou Wang_
+
+- **(Under Review) BioMoDiffuse: Physics-Guided Biomechanical Diffusion for Controllable and Authentic Human Motion Synthesis**
   <br/>
   _**Zixi Kang**, Xinghan Wang, Yadong Mu_
   <br/>
     📄[[Paper](https://arxiv.org/abs/2503.06151)]
 
-- **Text-controlled Motion Mamba: Text-Instructed Temporal Grounding of Human Motion**
+- **(Under Review) Text-controlled Motion Mamba: Text-Instructed Temporal Grounding of Human Motion**
   <br/>
   _Xinghan Wang, **Zixi Kang**, Yadong Mu_
   <br/>
@@ -33,13 +37,25 @@ Experiences
   <br/>
   Undergraduate Student 
   <br/>
-  September. 2022.9 – Present
+  2022.9 – Present
 
 - [PKUMI Lab](http://www.muyadong.com/index.html), Peking University(PKU)
   <br/>
   Intern 
   <br/>
-  December. 2023.12 – Present
+  2023.12 – 2025.3
+
+- [PKU CVDA Lab](https://cfcs.pku.edu.cn/english/research/researchlabs/237028.htm), Peking University(PKU)
+  <br/>
+  Intern 
+  <br/>
+  2025.3 - 2025.6
+
+- [PKU Mocca Lab](https://libliu.info/), Peking University(PKU)
+  <br/>
+  Intern 
+  <br/>
+  2025.3 - Present
 
 Selected Awards
 ======
@@ -64,7 +80,7 @@ Personal Interests
     - Monaco
     - Italy: Rome, Florence, Venice, Milan, Naples
     - Vatican City
-    - Russia: Moscow, Saint Petersburg
+    - Russia: Moscow, Saint Petersburg, Vladivostok
   - North America:
     - United States: New York, Washington D.C., Chicago, Boston, Hawaii, Philadelphia
 
