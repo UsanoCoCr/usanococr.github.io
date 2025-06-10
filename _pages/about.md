@@ -19,6 +19,8 @@ Publications
   _Jinlu Zhang*, **Zixi Kang***, Yizhou Wang_
   <br/>
     (*Equal Contribution)
+  <br/>
+    📄[[Paper](https://www.arxiv.org/pdf/2506.07565)], 🔎[[homepage](https://open-dance.github.io/)]
 
 - **(Under Review) BioMoDiffuse: Physics-Guided Biomechanical Diffusion for Controllable and Authentic Human Motion Synthesis**
   <br/>
