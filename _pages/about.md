@@ -87,19 +87,19 @@ Personal Interests
 ======
 - I was a member of the Yuanpei College men's soccer team and played at the centre defender mid-fielder or wing back position. I am also a board member of the Beijing High School Football Championship (BGBC). My favorite club is Leicester City and I will always be a fan of the Chinese men's soccer team.
 - In my spare time, I enjoy doing sports, mainly soccer, F1, and table tennis, as well as listening to music, singing, hiking, and traveling/exploring new places. I have visited 10 countries so far:
-  - Asia: 
-    - China(21/34 Provinces)
-    - Singapore
-    - Malaysia: Kuala Lumpur, Melaka
-    - Cambodia: Phnom Penh, Siem Reap
-  - Europe:
-    - France: Paris, Cannes
-    - Monaco
-    - Italy: Rome, Florence, Venice, Milan, Naples
-    - Vatican City
-    - Russia: Moscow, Saint Petersburg, Vladivostok
-  - North America:
-    - United States: New York, Washington D.C., Chicago, Boston, Hawaii, Philadelphia
+- Asia: 
+  - China(21/34 Provinces)
+  - Singapore
+  - Malaysia: Kuala Lumpur, Melaka
+  - Cambodia: Phnom Penh, Siem Reap
+- Europe:
+  - France: Paris, Cannes
+  - Monaco
+  - Italy: Rome, Florence, Venice, Milan, Naples
+  - Vatican City
+  - Russia: Moscow, Saint Petersburg, Vladivostok
+- North America:
+  - United States: New York, Washington D.C., Chicago, Boston, Hawaii, Philadelphia
 
 <script 
   type="text/javascript" 
