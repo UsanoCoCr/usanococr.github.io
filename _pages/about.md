@@ -21,19 +21,30 @@ Publications
     (*Equal Contribution)
   <br/>
     📄[[Paper](https://www.arxiv.org/pdf/2506.07565)], 🔎[[homepage](https://open-dance.github.io/)] ✏️[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:qaQa_sbhfyYJ:scholar.google.com/&output=citation&scisdr=CgKJ-XujEMvb-fiuBos:AAZF9b8AAAAAaE2oHoui8Gd84iYtDcKNpDnkA_A&scisig=AAZF9b8AAAAAaE2oHrWOUADEvRK47s3Co5KnJZM&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1)]
+  <br/>
+    <figure>
+    <img src="/assets/images/opendance.png">
+    </figure>
 
 - **(Under Review) BioMoDiffuse: Physics-Guided Biomechanical Diffusion for Controllable and Authentic Human Motion Synthesis**
   <br/>
   _**Zixi Kang**, Xinghan Wang, Yadong Mu_
   <br/>
     📄[[Paper](https://arxiv.org/abs/2503.06151)] ✏️[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:QFDbb_2dSFMJ:scholar.google.com/&output=citation&scisdr=CgKJ-XujEMvb-fih0_g:AAZF9b8AAAAAaE2ny_gITwd8kwL34YZzE0ICNSE&scisig=AAZF9b8AAAAAaE2ny9cSGmo0_Fy6TEwHYwxR5Ro&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1)]
+  <br/>
+    <figure>
+    <img src="/assets/images/biomodiffuse.png">
+    </figure>
 
 - **(Under Review) Text-controlled Motion Mamba: Text-Instructed Temporal Grounding of Human Motion**
   <br/>
   _Xinghan Wang, **Zixi Kang**, Yadong Mu_
   <br/>
     📄[[Paper](https://arxiv.org/abs/2404.11375)] ✏️[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:-CEKB-KFGEIJ:scholar.google.com/&output=citation&scisdr=CgKJ-XujEMvb-fiueIQ:AAZF9b8AAAAAaE2oYIQpbdZB33wI86WHJYr92xI&scisig=AAZF9b8AAAAAaE2oYBmOCs4JUawmW9GAI7KChjM&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1)]
-
+  <br/>
+    <figure>
+    <img src="/assets/images/tmmamba.png">
+    </figure>
 
 Experiences
 ======
