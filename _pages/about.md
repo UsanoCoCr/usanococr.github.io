@@ -13,14 +13,14 @@ I am an undergraduate student majoring in Artificial Intelligence at Yuanpei Col
 **My current research interest lies in computer vision and humanoid agent, especially human motion and human computer/robot interaction**, and I am also willing to explore additional domains within the field of artificial intelligence in the future.
 
 # Publications
-<small><sup>*</sup> denotes equal contribution, <sup>α</sup> denotes core contributors, and <sup>†</sup> denotes corresponding author</small>
+<small><sup>*</sup> denotes equal contribution, and <sup>†</sup> denotes corresponding author</small>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/opendance.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OpenDance: Multimodal Controllable 3D Dance Generation Using Large-scale Internet Data](https://www.arxiv.org/pdf/2506.07565)
 
-Jinlu Zhang<sup>*</sup>, **Zixi Kang**<sup>*</sup>, Yizhou Wang
+Jinlu Zhang<sup>*</sup>, **Zixi Kang**<sup>*</sup>, Yizhou Wang<sup>†</sup>
 
 🔎[[homepage](https://open-dance.github.io/)] ✏️[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:qaQa_sbhfyYJ:scholar.google.com/&output=citation&scisdr=CgKJ-XujEMvb-fiuBos:AAZF9b8AAAAAaE2oHoui8Gd84iYtDcKNpDnkA_A&scisig=AAZF9b8AAAAAaE2oHrWOUADEvRK47s3Co5KnJZM&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1)]
 </div></div>
@@ -31,7 +31,7 @@ Jinlu Zhang<sup>*</sup>, **Zixi Kang**<sup>*</sup>, Yizhou Wang
 
 [BioMoDiffuse: Physics-Guided Biomechanical Diffusion for Controllable and Authentic Human Motion Synthesis](https://arxiv.org/abs/2503.06151)
 
-**Zixi Kang**, Xinghan Wang, Yadong Mu
+**Zixi Kang**, Xinghan Wang, Yadong Mu<sup>†</sup>
     
 ✏️[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:QFDbb_2dSFMJ:scholar.google.com/&output=citation&scisdr=CgKJ-XujEMvb-fih0_g:AAZF9b8AAAAAaE2ny_gITwd8kwL34YZzE0ICNSE&scisig=AAZF9b8AAAAAaE2ny9cSGmo0_Fy6TEwHYwxR5Ro&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1)]
 </div></div>
@@ -42,7 +42,7 @@ Jinlu Zhang<sup>*</sup>, **Zixi Kang**<sup>*</sup>, Yizhou Wang
 
 [Text-controlled Motion Mamba: Text-Instructed Temporal Grounding of Human Motion](https://arxiv.org/abs/2404.11375)
 
-Xinghan Wang, **Zixi Kang**, Yadong Mu
+Xinghan Wang, **Zixi Kang**, Yadong Mu<sup>†</sup>
 
 ✏️[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:-CEKB-KFGEIJ:scholar.google.com/&output=citation&scisdr=CgKJ-XujEMvb-fiueIQ:AAZF9b8AAAAAaE2oYIQpbdZB33wI86WHJYr92xI&scisig=AAZF9b8AAAAAaE2oYBmOCs4JUawmW9GAI7KChjM&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1)]
 </div></div>
@@ -101,4 +101,8 @@ Personal Interests
   - North America:
     - United States: New York, Washington D.C., Chicago, Boston, Hawaii, Philadelphia
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=3TWJXhDA5vbrmRJyNYU26EBBSJcfUstPGQkRHit4PMk"></script>
+<script 
+  type="text/javascript" 
+  id="clstr_globe" 
+  src="//clustrmaps.com/globe.js?d=3TWJXhDA5vbrmRJyNYU26EBBSJcfUstPGQkRHit4PMk&w=400&h=400">
+</script>
