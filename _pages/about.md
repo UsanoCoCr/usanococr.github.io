@@ -10,41 +10,42 @@ redirect_from:
 I am an undergraduate student majoring in Artificial Intelligence at Yuanpei College, [Peking University](https://english.pku.edu.cn/). 
 
 
-**My current research interest lies in computer vision and humanoid agent, especially human motion, 3D generation and human computer/robot interaction**, and I am also willing to explore additional domains within the field of artificial intelligence in the future.
+**My current research interest lies in computer vision and humanoid agent, especially human motion and human computer/robot interaction**, and I am also willing to explore additional domains within the field of artificial intelligence in the future.
 
-Publications
-======
-- **(Under Review) OpenDance: Multimodal Controllable 3D Dance Generation Using Large-scale Internet Data**
-  <br/>
-  _Jinlu Zhang*, **Zixi Kang***, Yizhou Wang_
-  <br/>
-    (*Equal Contribution)
-  <br/>
-    📄[[Paper](https://www.arxiv.org/pdf/2506.07565)], 🔎[[homepage](https://open-dance.github.io/)] ✏️[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:qaQa_sbhfyYJ:scholar.google.com/&output=citation&scisdr=CgKJ-XujEMvb-fiuBos:AAZF9b8AAAAAaE2oHoui8Gd84iYtDcKNpDnkA_A&scisig=AAZF9b8AAAAAaE2oHrWOUADEvRK47s3Co5KnJZM&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1)]
-  <br/>
-    <figure>
-    <img src="/assets/images/opendance.png">
-    </figure>
+# Publications
+<small><sup>*</sup> denotes equal contribution, <sup>α</sup> denotes core contributors, and <sup>†</sup> denotes corresponding author</small>
 
-- **(Under Review) BioMoDiffuse: Physics-Guided Biomechanical Diffusion for Controllable and Authentic Human Motion Synthesis**
-  <br/>
-  _**Zixi Kang**, Xinghan Wang, Yadong Mu_
-  <br/>
-    📄[[Paper](https://arxiv.org/abs/2503.06151)] ✏️[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:QFDbb_2dSFMJ:scholar.google.com/&output=citation&scisdr=CgKJ-XujEMvb-fih0_g:AAZF9b8AAAAAaE2ny_gITwd8kwL34YZzE0ICNSE&scisig=AAZF9b8AAAAAaE2ny9cSGmo0_Fy6TEwHYwxR5Ro&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1)]
-  <br/>
-    <figure>
-    <img src="/assets/images/biomodiffuse.png">
-    </figure>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/opendance.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- **(Under Review) Text-controlled Motion Mamba: Text-Instructed Temporal Grounding of Human Motion**
-  <br/>
-  _Xinghan Wang, **Zixi Kang**, Yadong Mu_
-  <br/>
-    📄[[Paper](https://arxiv.org/abs/2404.11375)] ✏️[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:-CEKB-KFGEIJ:scholar.google.com/&output=citation&scisdr=CgKJ-XujEMvb-fiueIQ:AAZF9b8AAAAAaE2oYIQpbdZB33wI86WHJYr92xI&scisig=AAZF9b8AAAAAaE2oYBmOCs4JUawmW9GAI7KChjM&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1)]
-  <br/>
-    <figure>
-    <img src="/assets/images/tmmamba.png">
-    </figure>
+[OpenDance: Multimodal Controllable 3D Dance Generation Using Large-scale Internet Data](https://www.arxiv.org/pdf/2506.07565)
+
+Jinlu Zhang<sup>*</sup>, **Zixi Kang**<sup>*</sup>, Yizhou Wang
+
+🔎[[homepage](https://open-dance.github.io/)] ✏️[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:qaQa_sbhfyYJ:scholar.google.com/&output=citation&scisdr=CgKJ-XujEMvb-fiuBos:AAZF9b8AAAAAaE2oHoui8Gd84iYtDcKNpDnkA_A&scisig=AAZF9b8AAAAAaE2oHrWOUADEvRK47s3Co5KnJZM&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1)]
+</div></div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/biomodiffuse.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[BioMoDiffuse: Physics-Guided Biomechanical Diffusion for Controllable and Authentic Human Motion Synthesis](https://arxiv.org/abs/2503.06151)
+
+**Zixi Kang**, Xinghan Wang, Yadong Mu
+    
+✏️[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:QFDbb_2dSFMJ:scholar.google.com/&output=citation&scisdr=CgKJ-XujEMvb-fih0_g:AAZF9b8AAAAAaE2ny_gITwd8kwL34YZzE0ICNSE&scisig=AAZF9b8AAAAAaE2ny9cSGmo0_Fy6TEwHYwxR5Ro&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1)]
+</div></div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/tmmamba.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Text-controlled Motion Mamba: Text-Instructed Temporal Grounding of Human Motion](https://arxiv.org/abs/2404.11375)
+
+Xinghan Wang, **Zixi Kang**, Yadong Mu
+
+✏️[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:-CEKB-KFGEIJ:scholar.google.com/&output=citation&scisdr=CgKJ-XujEMvb-fiueIQ:AAZF9b8AAAAAaE2oYIQpbdZB33wI86WHJYr92xI&scisig=AAZF9b8AAAAAaE2oYBmOCs4JUawmW9GAI7KChjM&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1)]
+</div></div>
 
 Experiences
 ======
@@ -74,6 +75,7 @@ Experiences
 
 Selected Awards
 ======
+- 2025: Runner-up of the 2024-25 Peking University soccer tournament
 - 2024: Yicong Huang Scholarship (¥8000 RMB)
 - 2024: Ching-Ling Soong Future Scholarship (¥5000 RMB)
 - 2024: MCM/ICM Meritorious Winner (<6%)
