@@ -59,13 +59,13 @@ Experiences
   <br/>
   Intern 
   <br/>
-  2023.12 – 2025.3
+  2024.2 – 2025.3
 
 - [PKU CVDA Lab](https://cfcs.pku.edu.cn/english/research/researchlabs/237028.htm), Peking University(PKU)
   <br/>
   Intern 
   <br/>
-  2025.3 - 2025.6
+  2025.2 - 2025.6
 
 - [PKU Mocca Lab](https://libliu.info/), Peking University(PKU)
   <br/>
